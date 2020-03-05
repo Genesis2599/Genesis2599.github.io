@@ -6,5 +6,7 @@ h3{
     font-weight: 700;
 }
 body{
-    background-image:
+    /*background-image: url(images/Background.jpg);*/
+    background-size: contain;
+    padding: 2em;
 }
