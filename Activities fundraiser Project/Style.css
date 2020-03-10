@@ -6,11 +6,12 @@ h3, h2{
     font-weight: 700;
 }
 body{
-    background-image: url(images/Background.jpg);
+    
     background-size: contain;
     padding: 2em;
     background-repeat: no-repeat;
-
+    background-position: center;
+    background-attachment: fixed;
 }
 
 /*underline all H1 headers please*/
